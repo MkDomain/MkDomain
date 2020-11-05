@@ -1,16 +1,29 @@
-### Hi there 👋
+# About me
+I'm a Java freelance developer with three years of coding experience, currently working on Minecraft plugins with the [Spigot](https://www.spigotmc.org) api.
 
-<!--
-**MkDomain/MkDomain** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**Languages I use**:
+- Java
+- JavaScript
+- Html
+- PHP
+- Visual Basic
 
-Here are some ideas to get you started:
+**Frameworks I use**:
+- Electron
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Education
+
+I'm currently in high school, but I'm mostly self taught. \
+Currently I'm learning about machine learning and neural networks.
+
+
+## Contact me
+
+Reach me on discord: `MkDomain#0001` \
+Or with email: `mkdomainyt@gmail.com`
+
+## Projects:
+
+[Deltaféra](https://github.com/MkDomain/Deltafera) - A hungarian project that modifies a website.
+
+Other projects are unlistable as requested by their owner.
