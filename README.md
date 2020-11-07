@@ -10,6 +10,7 @@ I'm a Java freelance developer with three years of coding experience, currently 
 
 **Frameworks I use**:
 - Electron
+- JDA
 
 ## Education
 
