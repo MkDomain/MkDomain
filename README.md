@@ -20,7 +20,7 @@ Currently I'm learning about machine learning and neural networks.
 
 ## Contact me
 
-Reach me on discord: `MkDomain#0001` \
+Reach me on discord: `MkDomain#4222` \
 Or with email: `mkdomainyt@gmail.com`
 
 ## Projects:
