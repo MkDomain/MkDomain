@@ -1,12 +1,11 @@
 # About me
 I'm a Java freelance developer with three years of coding experience, currently working on Minecraft plugins with the [Spigot](https://www.spigotmc.org) api.
 
-**Languages I use**:
+**Languages I know**:
 - Java
 - JavaScript
-- Html
 - PHP
-- Visual Basic
+- Visual Basic (Not using it)
 
 **Frameworks I use**:
 - Electron
